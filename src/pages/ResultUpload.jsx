@@ -1,0 +1,1 @@
+export default()=> (<div><h3>Upload Results</h3><input type='file'/></div>);

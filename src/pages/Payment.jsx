@@ -1,0 +1,1 @@
+export default()=> (<div><h3>Payment</h3><input type='file'/></div>);
